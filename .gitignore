@@ -1,0 +1,53 @@
+########################################################
+# NO MODIFICAR ESTE ARCHIVO. SE GENERA AUTOMATICAMENTE #
+########################################################
+
+
+# archivos binarios
+*.o
+
+# archivo generador del .gitignore
+gen_gitignore.sh
+
+# archivos ejecutables
+PRACTICE/CHAPTER 2/atoi/atoi
+PRACTICE/CHAPTER 2/types_size/types_size
+PRACTICE/CHAPTER 2/squeeze/squeeze
+PRACTICE/CHAPTER 2/htoi/htoi
+PRACTICE/CHAPTER 2/getbits/getbits
+PRACTICE/CHAPTER 5/strn/strn
+PRACTICE/CHAPTER 5/alloc/alloc
+PRACTICE/CHAPTER 5/strcat/strcat
+PRACTICE/CHAPTER 5/strend/strend
+PRACTICE/CHAPTER 5/getline/getline
+PRACTICE/CHAPTER 5/getfloat/getfloat
+PRACTICE/CHAPTER 5/getint/getint
+PRACTICE/CHAPTER 4/calculator/main
+PRACTICE/CHAPTER 4/find_pattern/find_pattern
+PRACTICE/CHAPTER 4/qsort/qsort
+PRACTICE/CHAPTER 4/printd/printd
+PRACTICE/CHAPTER 4/atof/atof
+PRACTICE/CHAPTER 3/itoa/itoa
+PRACTICE/CHAPTER 3/atoi/atoi
+PRACTICE/CHAPTER 3/reverse/reverse
+PRACTICE/CHAPTER 3/escape/escape
+PRACTICE/CHAPTER 3/shellsort/shellsort
+PRACTICE/CHAPTER 3/insert_sort/insert_sort
+PRACTICE/CHAPTER 3/itob/itob
+PRACTICE/CHAPTER 3/expand/expand
+PRACTICE/CHAPTER 3/bin_search/bin_search
+PRACTICE/CHAPTER 1/print_words/print_words
+PRACTICE/CHAPTER 1/input_to_output/input_to_output
+PRACTICE/CHAPTER 1/detab/detab
+PRACTICE/CHAPTER 1/trim/trim
+PRACTICE/CHAPTER 1/replacing_blank/replacing_blank
+PRACTICE/CHAPTER 1/fold/main
+PRACTICE/CHAPTER 1/show_tab/show_tab
+PRACTICE/CHAPTER 1/longest_line/longest_line
+PRACTICE/CHAPTER 1/power/power
+PRACTICE/CHAPTER 1/histogram/histogram
+PRACTICE/CHAPTER 1/temperature/temperature
+PRACTICE/CHAPTER 1/entab/entab
+PRACTICE/CHAPTER 1/remove_comment/main
+PRACTICE/CHAPTER 1/line_counter/line_counter
+PRACTICE/CHAPTER 1/wc/wc
