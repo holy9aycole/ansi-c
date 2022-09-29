@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "./qsort_lines.h"
+#include "./qsort.h"
 
 #define MAXLEN 1000	/* longitud maxima para cada linea de entrada */
 

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "./qsort_lines.h"
+#include "./qsort.h"
 
 /*
  * writelines: escribir lineas de texto en la salida estandar

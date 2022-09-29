@@ -15,7 +15,7 @@ char *linesptr[MAXLINES];	/* puntero a las lineas de texto */
 int main (void) {
 	int nlines;	/* numero de lineas leidas de la entrada */
 
-	if ((nlines = readlines(linesptr, nlines)) >= 0) {
+	if ((nlines = readlines(linesptr, MAXLINES)) >= 0) {
 		qsort(linesptr, 0, nlines - 1);
 		writelines(linesptr, nlines);
 		return 0;
